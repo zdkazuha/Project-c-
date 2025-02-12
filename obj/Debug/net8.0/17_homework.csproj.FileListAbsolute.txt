@@ -1,0 +1,17 @@
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\bin\Debug\net8.0\17_homework.exe
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\bin\Debug\net8.0\17_homework.deps.json
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\bin\Debug\net8.0\17_homework.runtimeconfig.json
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\bin\Debug\net8.0\17_homework.dll
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\bin\Debug\net8.0\17_homework.pdb
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.csproj.AssemblyReference.cache
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.AssemblyInfoInputs.cache
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.AssemblyInfo.cs
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homew.3C922A7A.Up2Date
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.dll
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\refint\17_homework.dll
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.pdb
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.genruntimeconfig.cache
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\ref\17_homework.dll
