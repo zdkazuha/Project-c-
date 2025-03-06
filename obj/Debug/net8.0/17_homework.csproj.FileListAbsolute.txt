@@ -15,3 +15,4 @@ C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\r
 C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.pdb
 C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.genruntimeconfig.cache
 C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\ref\17_homework.dll
+C:\Users\SystemX\Desktop\Array\C#\C#\C#\Home Work\17_homework\obj\Debug\net8.0\17_homework.sourcelink.json
